@@ -1,13 +1,13 @@
 # Exercicio de Fixação
 Uma lista descritiva com 10 tags HTML e suas funções.  
 São elas:  
-*__<p>__
-*__<br>__
-*__<b>__
-*__<i>__
-*__<a>__
-*__<h1>__
-*__<img>__
-*__<l1>__
-*__<ol>__
-*__<ul>__
+* __p__
+* __br__
+* __b__
+* __i__
+* __a__
+* __h1__
+* __img__
+* __l1__
+* __ol__
+* __ul__
